@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springbatch</groupId>
-	<artifactId>envio-emails</artifactId>
+	<artifactId>BATCH.envio-emails</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>envio-emails</name>
 	<description>Job que envia promoções por email aos clientes</description>
